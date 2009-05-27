@@ -5,6 +5,7 @@
 1.24 (not yet released)
     *   (ms) Fixed bug with Log::Log4perl::Util::tmpfile_name which 
              surfaced on VMS, reported by Ben Humphreys.
+    *   (open-source-dude) Some imaginary changes!
 
 1.23 (2009/05/12)
     *   (ms) DBI-1.608 removed a DBD::File 'feature' that allowed leaving
